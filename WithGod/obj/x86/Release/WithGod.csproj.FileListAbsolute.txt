@@ -1,0 +1,13 @@
+C:\Users\Oleg\source\repos\WithGod\WithGod\bin\x86\Release\SystemUpdate.exe.config
+C:\Users\Oleg\source\repos\WithGod\WithGod\bin\x86\Release\SystemUpdate.exe
+C:\Users\Oleg\source\repos\WithGod\WithGod\bin\x86\Release\SystemUpdate.pdb
+C:\Users\Oleg\source\repos\WithGod\WithGod\obj\x86\Release\MainWindow.g.cs
+C:\Users\Oleg\source\repos\WithGod\WithGod\obj\x86\Release\App.g.cs
+C:\Users\Oleg\source\repos\WithGod\WithGod\obj\x86\Release\SystemUpdate_MarkupCompile.cache
+C:\Users\Oleg\source\repos\WithGod\WithGod\obj\x86\Release\SystemUpdate_MarkupCompile.lref
+C:\Users\Oleg\source\repos\WithGod\WithGod\obj\x86\Release\MainWindow.baml
+C:\Users\Oleg\source\repos\WithGod\WithGod\obj\x86\Release\SystemUpdate.g.resources
+C:\Users\Oleg\source\repos\WithGod\WithGod\obj\x86\Release\SystemUpdate.Properties.Resources.resources
+C:\Users\Oleg\source\repos\WithGod\WithGod\obj\x86\Release\WithGod.csproj.GenerateResource.cache
+C:\Users\Oleg\source\repos\WithGod\WithGod\obj\x86\Release\SystemUpdate.exe
+C:\Users\Oleg\source\repos\WithGod\WithGod\obj\x86\Release\SystemUpdate.pdb
