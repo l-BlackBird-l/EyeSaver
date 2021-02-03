@@ -38,6 +38,11 @@ namespace SystemUpdate
                 MainWindow window = new MainWindow();
                 window.Show();
             }
+            if (Properties.Settings.Default.Password.Length != 0)
+            {
+                EnterPassword.IsOpen = true;
+            }
+
            
         }
 
@@ -220,6 +225,13 @@ namespace SystemUpdate
             return msg;
         }
 
+        private void Password_Click(object sender, RoutedEventArgs e)
+        {
+            if (UserPassword.Password == Properties.Settings.Default.Password) { EnterPassword.IsOpen = false; }
+            else WrongPass.IsOpen = true;
+        }
+
+
         private void Accept_Button_Click(object sender, RoutedEventArgs e)
         {
 
@@ -235,6 +247,10 @@ namespace SystemUpdate
             }
         }
 
+        private void Ok1_Click(object sender, RoutedEventArgs e)
+        {
+            WrongPass.IsOpen = false;
+        }
 
         private void Ok_Click(object sender, RoutedEventArgs e)
         {

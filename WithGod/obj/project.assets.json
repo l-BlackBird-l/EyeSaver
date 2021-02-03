@@ -308,11 +308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Secret\\WithGod\\Source\\WithGod\\WithGod.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Secret\\WithGod\\123\\EyeSacver\\WithGod\\WithGod.csproj",
       "projectName": "WithGod",
-      "projectPath": "C:\\Users\\User\\Desktop\\Secret\\WithGod\\Source\\WithGod\\WithGod.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Secret\\WithGod\\123\\EyeSacver\\WithGod\\WithGod.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Secret\\WithGod\\Source\\WithGod\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Secret\\WithGod\\123\\EyeSacver\\WithGod\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

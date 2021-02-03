@@ -174,7 +174,7 @@ namespace WithGod
             SystemUpdate.Properties.Settings.Default.Block = false;
             SystemUpdate.Properties.Settings.Default.Save();
 
-            SetAutorunValue(false);
+          //  SetAutorunValue(false);
 
             Environment.Exit(1); // Перезапускаем программу
         }

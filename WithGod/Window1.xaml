@@ -87,6 +87,26 @@
             </materialDesign:DialogHost.DialogContent>
         </materialDesign:DialogHost>
 
+
+        <materialDesign:DialogHost x:Name="EnterPassword" IsOpen="False" DialogTheme="Light">
+            <materialDesign:DialogHost.DialogContent>
+                <Grid  Height="120" Background="White">
+                    <TextBlock  Text="Введiть пароль ( екстреного розблокування )" FontSize="18" FontFamily="Arial" HorizontalAlignment="Center" Margin="15" />
+                    <PasswordBox x:Name="UserPassword" Margin="20,0,20,0" VerticalAlignment="Center"/>
+                    <Button Content="Продовжити" HorizontalAlignment="Center" VerticalAlignment="Bottom" Padding="150,0,150,0" Margin="5" Click="Password_Click"/>
+                </Grid>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+
+        <materialDesign:DialogHost x:Name="WrongPass" IsOpen="False" DialogTheme="Light">
+            <materialDesign:DialogHost.DialogContent>
+                <Grid  Height="90" Background="White">
+                    <TextBlock Text="Пароль введено невiрно." FontSize="18" FontFamily="Arial" HorizontalAlignment="Center" Margin="15" />
+                    <Button Content="Добре" HorizontalAlignment="Center" VerticalAlignment="Bottom" Padding="150,0,150,0" Margin="10" Click="Ok1_Click"/>
+                </Grid>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+        
         <materialDesign:DialogHost x:Name="textDialog" IsOpen="False" DialogTheme="Light">
             <materialDesign:DialogHost.DialogContent>
                 <Grid  Height="90" Background="White">
